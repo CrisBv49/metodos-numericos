@@ -1,2 +1,2 @@
 # metodos-numericos
-codigo error absoluto.
+codigo error relativo
